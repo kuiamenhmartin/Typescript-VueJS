@@ -1,5 +1,3 @@
-# bt
-
 ## Project setup
 ```
 npm install
